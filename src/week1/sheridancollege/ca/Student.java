@@ -1,6 +1,8 @@
 /*
  * Fei Wei
  * Student# 991625792
+
+commit branch
  * 
  */
 package week1.sheridancollege.ca;
