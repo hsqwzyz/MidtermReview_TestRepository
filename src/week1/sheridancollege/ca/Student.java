@@ -10,6 +10,9 @@ package week1.sheridancollege.ca;
 /**
  *
  * @author moi class to create Student Objects
+ 
+ Testing
+ 
  */
 public class Student {
 
